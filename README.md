@@ -10,7 +10,7 @@ Correspondences to
 
 # Paper
 
-[**DIME: Fine-grained Interpretations of Multimodal Models via Disentangled Local Explanations**](https://github.com/lvyiwei1/DIME)<br>
+[**DIME: Fine-grained Interpretations of Multimodal Models via Disentangled Local Explanations**](https://arxiv.org/abs/2203.02013)<br>
 Yiwei Lyu, Paul Pu Liang, Zihao Deng, Ruslan Salakhutdinov, Louis-Philippe Morency.<br>
 
 If you find this repository useful, please cite our paper:
